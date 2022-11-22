@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: DAW1 Entornos
+site_url: http://paabloj7.github.io/pabloweb
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+
+theme:
+    name: material
